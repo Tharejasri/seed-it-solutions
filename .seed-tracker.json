@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "lastSynced": "2026-09-24T08:52:49.011Z",
+  "problems": {
+    "Q0.10": {
+      "questionId": "Q0.10",
+      "title": "Basic_level_0_Datatypes_10",
+      "category": "1. Foundations & Environment Setup",
+      "difficulty": "Beginner",
+      "folderPath": "Problems/1-foundations-environment-setup/q0-10-basic-level-0-datatypes-10",
+      "languages": [
+        "python"
+      ],
+      "lastSolvedAt": "2026-09-24T08:52:49.011Z"
+    }
+  }
+}
